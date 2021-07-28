@@ -28,7 +28,7 @@ $$$$$$$/   $$$$$$/  $$/   $$/  $$$$$$/  $$$$$$$/   $$$$$$$/ $$/  $$/  $$/
 BoxSpam V.1{Beta} 
 Source Code : Python                                   
 Date  : 06-03-2018
-Author : Xeit666h05t     
+Author : RavinduManoj     
 Team : CoiZter_Team                                 
 Note : Di Praktiskan Menjadi 5 Tools
 1 Tools Masing Masing Memiliki Beberapa Tools Di Dalamnya Agar Lebih Praktis Saja 
